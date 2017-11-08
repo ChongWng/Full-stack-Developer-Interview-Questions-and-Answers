@@ -37,7 +37,8 @@ This repo contains a number of full-stack developer interview questions that can
   1. [Image processing](#image-processing)
   1. [Cryptography](#cryptography)
   1. [Security](#security)
-  1. [Android](#android)
+  2. [ASP.NET Core](#dotnetcore)
+
 
 #### [[⬆]](#toc) <a name='general'>General Questions:</a>
 * What is *polymorphism*? (Variable of type Shape could refer to an object of type Square, Circle... Ability of a function to handle objects of many types)
@@ -389,4 +390,4 @@ m = c^d mod n = m^(e*d) mod n = m^(e*d mod phi(n)) mod n = m
 * What is *CSP* and *SRI hash* ?
 * What is *Clickjacking* and *Cursorjacking* ? How to prevent it ?
 
-#### [[⬆]](#toc) <a name='android'>Android:</a>
+#### [[⬆]](#toc) <a name='dotnetcore'>ASP.NET Core:</a>
